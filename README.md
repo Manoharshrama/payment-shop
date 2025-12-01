@@ -1,10 +1,16 @@
 # 💳 React Payment Method Selector
+##Project Name: Lewis-Tac-Toe is a project that creates a web based tic tac toe game in utilising React App.
 
-A modern, responsive React-based payment method selector that allows users to:
-- View and manage saved payment methods
-- Add new methods like Credit Card, PayPal, Google Pay, and Apple Pay
-- Toggle dark/light theme
-- Enter payment details and confirm with credentials
+###Student Name: Naga Manohar Sharma Sankaramanchi
+
+###Credits & references: 
+
+Majority of the code is derived from the example React Tic-tac-toe from  [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## 🎥 Demo Preview
 
