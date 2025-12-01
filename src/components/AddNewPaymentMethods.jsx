@@ -1,11 +1,10 @@
-// src/components/AddNewPaymentMethods.jsx
 import React from "react";
 
 const baseCardClasses = "rounded-lg shadow-sm p-4 transition-colors duration-300";
 const baseCardBorder = "border border-gray-300 dark:border-gray-600";
 
 export default function AddNewPaymentMethods({ onBack, onSelectMethod }) {
-  const methods = [
+  const methods = [ 
     {
       name: "Credit Card",
       description: "Pay with your credit or debit card",
