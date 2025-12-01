@@ -1,4 +1,4 @@
-// src/components/ApplePayForm.jsx
+
 import React, { useState } from "react";
 
 export default function ApplePayForm({ onBack, onPaymentSuccess }) {
