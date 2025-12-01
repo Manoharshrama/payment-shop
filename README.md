@@ -1,11 +1,11 @@
 # 💳 React Payment Method Selector
-##Project Name: Lewis-Tac-Toe is a project that creates a web based tic tac toe game in utilising React App.
+##Project Name: payment-shop is a project that creates a web based tic tac toe game in utilising React App.
 
 ###Student Name: Naga Manohar Sharma Sankaramanchi
 
 ###Credits & references: 
 
-Majority of the code is derived from the example React Tic-tac-toe from  [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+Majority of the code is derived from the example React Tic-tac-toe from  [Payment-Method-Selector](https://github.com/SahiRB1104/payment-method-selector)
 
 # Getting Started with Create React App
 
@@ -13,8 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## 🎥 Demo Preview
-
-▶️ [Watch the video demo on Google Drive](https://drive.google.com/file/d/11T7PaAD7aTssb28w27OkzTZNHSFfnfVK/view?usp=sharing)
+[Demo url](https://smartpays.com)
 
 
 ## 📖 Project Description
@@ -89,7 +88,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## ⚙️ Setup Instructions
 
 ### 📥 Step 1: Clone the repository
-  - command: git clone https://github.com/SahiRB1104/payment-method-selector.git
+  - command: git clone https://github.com/Manoharshrama/payment-shop.git
 
 ### 📦 Step 3: Install dependencies
    - command: npm install
