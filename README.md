@@ -1,5 +1,5 @@
 # 💳 React Payment Method Selector
-##Project Name: payment-shop is a project that creates a web based tic tac toe game in utilising React App.
+##Project Name: payment-shop is a project that creates a web based unified payment Platform build with React App.
 
 ###Student Name: Naga Manohar Sharma Sankaramanchi
 
